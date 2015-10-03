@@ -1,5 +1,6 @@
 # SoftMines
 The BlackBerry10 version of MineSweeper in Windows
+[BlackBerry World Link](https://appworld.blackberry.com/webstore/content/35618894/)
 
 Requires API 10.2.1
 
